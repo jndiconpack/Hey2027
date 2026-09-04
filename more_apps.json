@@ -17,8 +17,7 @@
       "isOnSale": true,
       "saleEndTime": "2025-10-22T23:59:59Z",
       "discountPercentage": 90
-    },  
-    
+    },
     {
       "name": "Material Widgets",
       "packageName": "com.jndapp.material.widgets.pack",
@@ -34,7 +33,7 @@
       "saleEndTime": "2025-08-29T23:59:59Z",
       "discountPercentage": 90
     },
-{
+    {
       "name": "Everything Widgets",
       "packageName": "com.jndapp.nothing.widgets.pack",
       "description": "210+ Nothing Inspired Widgets. Tap To Add Widgets",
@@ -46,7 +45,7 @@
       "categoryColor": "#4CAF50",
       "isNew": true
     },
-{
+    {
       "name": "Dots Live Wallpaper",
       "packageName": "com.jnd.nothing.live.wallpaper",
       "description": "Transform your device's battery indicator into an elegant grid of animated dots with Battery Live Wallpaper.",
@@ -63,12 +62,52 @@
       "packageName": "",
       "description": "Explore beautifully designed icon packs from this developer.",
       "iconUrl": "https://play-lh.googleusercontent.com/W4fYq4gmlttPTvypjkk1CGXawJGC6E2KbMes1Oi3XlioAS4-KsdTJ1umW9VM-V4dHQ=s0?imgmax=0",
-      "previewImageUrl": "https://creatorspace.imgix.net/users/clrt2btl200n3qx0130g4w1iy/HuY2O9BOQcDSqE0O-Preview.png",
-      "playStoreUrl": "https://bento.me/justnewdesigns",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/0xVTg8GcoDv0POOZY2hN7sH6upEJikYUKcdqR874j9hptWOFc3oHNRzQ-Wl9WWcV6BxT6q_IaKwimgKqUKOnUDI=w2560-h1440-rw",
+      "playStoreUrl": "https://play.google.com/store/apps/dev?id=6871333323804023406",
       "category": "IconPacks",
       "type": "link",
-      "categoryColor": "#FF9800",
-      "isNew": false
+      "categoryColor": "#ff9800",
+      "isNew": false,
+      "isOnSale": false
+    },
+    {
+      "name": "Depth Live Wallpapers • FREE",
+      "packageName": "com.jndapp.depth.live.wallpaper",
+      "description": "Stunning 3D Depth Wallpapers  - Works on any android device.",
+      "iconUrl": "https://play-lh.googleusercontent.com/h9g140jbgc6tR6o2VgL2lF0OYTr8cq2n9x_GihS_Toxe3PioggBfXHzIwM2OeNeEyWHfZFpqoMov5Whdm_qMeg=w240-h480-rw",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/cQypi3Z7MF0dt90LrP6U220_XO8eXj0W-czdVcRhsYHN_2XoIAS7ZqGkymb3Tpa1dQh6jbiASd0GFFU5FzT87m8=w2560-h1440-rw",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper",
+      "category": "Wallpaper",
+      "type": "app",
+      "categoryColor": "#0481ff",
+      "isNew": true,
+      "isOnSale": false
+    },
+    {
+      "name": "Minimal Widgets - FREE",
+      "packageName": "com.jndapp.minimal.widgets",
+      "description": "700+ Minimal Widgets, Minimal Look with Maximum Utilities",
+      "iconUrl": "https://play-lh.googleusercontent.com/YdxN2n40wSiPp-WZi832aZHxGFQSafDcHqNif-Wy9YH__t2nCXoB5yGaCQkisJaHWe13H37lI_olM7sKsfONBg=w240-h480-rw",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/J8fJiGYLHmV9xZkTWSeIfzyQHCMADsp6RGnGdAtZ205C5mbwzT11cNmDZ17A0ThhgTzl1jRpGsxfFB2Ecs6GZxc=w2560-h1440-rw",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.minimal.widgets",
+      "category": "Widgets",
+      "type": "app",
+      "categoryColor": "#0481ff",
+      "isNew": true,
+      "isOnSale": false
+    },
+    {
+      "name": "Concentric Live Wallpaper • FREE",
+      "packageName": "com.jndapp.concentric.pixel.watch.wallpaper",
+      "description": "Live Clock Wallpaper Inspired by Pixel Watch.",
+      "iconUrl": "https://play-lh.googleusercontent.com/K6YF36eb-QxEB-TM2i4OwgwnETi9VBeT5n1V6lk9FYA5GH2mgmu9WCxSiZB1vEFMyOIYM1l2yKsWelA0Cx7JIg=w240-h480-rw",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/MccZnnT5H3oR-DBcrqetu-KqRkLChgKrALiGXcvDnhSzuaEzobeSCi9hyOUopwU1kGB3RRa5oxipbIDWWYaY=w2560-h1440-rw",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.concentric.pixel.watch.wallpaper",
+      "category": "Wallpaper",
+      "type": "app",
+      "categoryColor": "#ff9800",
+      "isNew": true,
+      "isOnSale": false
     }
   ]
 }
