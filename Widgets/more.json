@@ -14,6 +14,7 @@
       "type": "app",
       "categoryColor": "#4CAF50",
       "isNew": false,
+      "isFree": false,
       "isOnSale": true,
       "saleEndTime": "2025-10-22T23:59:59Z",
       "discountPercentage": 90
@@ -29,6 +30,7 @@
       "type": "app",
       "categoryColor": "#4CAF50",
       "isNew": false,
+      "isFree": false,
       "isOnSale": true,
       "saleEndTime": "2025-08-29T23:59:59Z",
       "discountPercentage": 90
@@ -43,7 +45,8 @@
       "category": "Widgets",
       "type": "app",
       "categoryColor": "#4CAF50",
-      "isNew": true
+      "isNew": true,
+      "isFree": true
     },
     {
       "name": "Dots Live Wallpaper",
@@ -55,7 +58,8 @@
       "category": "Live Wallpaper",
       "type": "Coming Soon",
       "categoryColor": "#4CAF50",
-      "isNew": true
+      "isNew": true,
+      "isFree": true
     },
     {
       "name": "Amazing IconPacks",
@@ -68,10 +72,11 @@
       "type": "link",
       "categoryColor": "#ff9800",
       "isNew": false,
+      "isFree": false,
       "isOnSale": false
     },
     {
-      "name": "Depth Live Wallpapers • FREE",
+      "name": "Depth Live Wallpapers   FREE",
       "packageName": "com.jndapp.depth.live.wallpaper",
       "description": "Stunning 3D Depth Wallpapers  - Works on any android device.",
       "iconUrl": "https://play-lh.googleusercontent.com/h9g140jbgc6tR6o2VgL2lF0OYTr8cq2n9x_GihS_Toxe3PioggBfXHzIwM2OeNeEyWHfZFpqoMov5Whdm_qMeg=w240-h480-rw",
@@ -81,6 +86,7 @@
       "type": "app",
       "categoryColor": "#0481ff",
       "isNew": true,
+      "isFree": true,
       "isOnSale": false
     },
     {
@@ -94,10 +100,11 @@
       "type": "app",
       "categoryColor": "#0481ff",
       "isNew": true,
+      "isFree": true,
       "isOnSale": false
     },
     {
-      "name": "Concentric Live Wallpaper • FREE",
+      "name": "Concentric Live Wallpaper   FREE",
       "packageName": "com.jndapp.concentric.pixel.watch.wallpaper",
       "description": "Live Clock Wallpaper Inspired by Pixel Watch.",
       "iconUrl": "https://play-lh.googleusercontent.com/K6YF36eb-QxEB-TM2i4OwgwnETi9VBeT5n1V6lk9FYA5GH2mgmu9WCxSiZB1vEFMyOIYM1l2yKsWelA0Cx7JIg=w240-h480-rw",
@@ -107,6 +114,7 @@
       "type": "app",
       "categoryColor": "#ff9800",
       "isNew": true,
+      "isFree": true,
       "isOnSale": false
     }
   ]
